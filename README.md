@@ -1,3 +1,5 @@
+> This is an initial plan/proposal
+
 # Steam Game Similarity & Recommender System
 
 ## Overview
